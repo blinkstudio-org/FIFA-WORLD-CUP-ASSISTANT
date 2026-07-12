@@ -1,0 +1,6 @@
+{
+  "name": "FIFA Venue Intelligence OS (VIOS)",
+  "description": "An AI-powered digital twin and unified operations command system designed for the FIFA World Cup 2026 stadium management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
